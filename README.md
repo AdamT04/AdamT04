@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam [ENG/ITA]
+🎓 I'm a 20-year-old Junior Developer with a strong focus on **C#** and cross-platform development.
 
-<!--
-**AdamT04/AdamT04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+- 🧑‍💻 Passionate about building practical and efficient software solutions  
+- 📱 Experienced with **.NET MAUI** for cross-platform mobile apps  
+- 💡 Interested in **low-code platforms** and rapid application development  
+- 🎓 Graduate of **ITIS Guglielmo Marconi**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Primary Language:** C#  
+- **Also Familiar With:** Java, Python, PHP, JavaScript, Batch, C  
+- **Frameworks & Tools:**  
+  - .NET MAUI  
+  - .NET WinForms  
+  - .NET WPF  
+  - Maven  
+- **Technologies:**  
+  - Bluetooth Beacons  
+  - NFC Devices  
+  - REST API Architectures  
+
+## 🚀 Goals
+
+- Sharpen my backend and mobile development skills  
+- Dive deeper into enterprise-level integrations and automation  
+- Learn more about how operating systems are built and function
+
+## 🌐 Connect With Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-touimi-benjelloun-87b84b256/)
