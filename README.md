@@ -27,6 +27,7 @@
 - Sharpen my backend and mobile development skills  
 - Dive deeper into enterprise-level integrations and automation  
 - Learn more about how operating systems are built and function
+- Strenghten my desing and frontend skills.
 
 ## 🌐 Connect With Me
 
