@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Adam [ENG/ITA]
-🎓 I'm a 20-year-old Junior Developer with a strong focus on **C#** and cross-platform development.
+🎓 I'm a 20-year-old Junior Developer with a strong focus on **C#, Java** and cross-platform development.
 
 ## 💻 About Me
 
@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 
 - **Primary Language:** C#  
-- **Also Familiar With:** Java, Python, PHP, JavaScript, Batch, C  
+- **Also Familiar With:** Java, Python, PHP, JavaScript, Batch,
 - **Frameworks & Tools:**  
   - .NET MAUI  
   - .NET WinForms  
