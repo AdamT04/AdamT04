@@ -27,7 +27,11 @@
 - Sharpen my backend and mobile development skills  
 - Dive deeper into enterprise-level integrations and automation  
 - Learn more about how operating systems are built and function
-- Strenghten my desing and frontend skills.
+- Strenghten my desing and frontend skills
+
+## 🔢 Currently working on
+
+- A personal React project
 
 ## 🌐 Connect With Me
 
