@@ -11,11 +11,11 @@
 ## 🛠️ Tech Stack
 
 - **Primary Language:** C#  
-- **Also Familiar With:** Java, Python, PHP, JavaScript, Batch,
+- **Also Familiar With:** Java, Python, PHP, JavaScript, Batch
 - **Frameworks & Tools:**  
   - .NET MAUI  
   - .NET WinForms  
-  - .NET WPF  
+  - .NET WPF
   - Maven  
 - **Technologies:**  
   - Bluetooth Beacons  
